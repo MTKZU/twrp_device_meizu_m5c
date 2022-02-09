@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/xolo/era_3/
+LOCAL_PATH := device/meizu/m5c/
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_era_3.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_m5c.mk

@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 
-ifneq ($(filter era_3,$(TARGET_DEVICE)),)
+ifneq ($(filter m5c,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/xolo/era_3/
+LOCAL_PATH := device/meizu/m5c/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
