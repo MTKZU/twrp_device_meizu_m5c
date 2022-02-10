@@ -13,7 +13,7 @@ PRODUCT_PACKAGES += \
     charger
 
 PRODUCT_COPY_FILES += \
-    device/xolo/era_3/recovery.fstab:recovery/root/recovery.fstab
+    device/meizu/m5c/recovery.fstab:recovery/root/recovery.fstab
 
 TARGET_SCREEN_HEIGHT := 1280
 TARGET_SCREEN_WIDTH := 720
