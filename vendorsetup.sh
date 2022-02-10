@@ -1,1 +1,1 @@
-add_lunch_combo omni_era_3-eng
+add_lunch_combo omni_m5c-eng
